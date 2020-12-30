@@ -27,18 +27,6 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-## Stay in touch
-
 - Author - Jose Carlos de Oliveira
 - Website - https://github.com/zecarloz
 
