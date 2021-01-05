@@ -28,7 +28,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 - Author - Jose Carlos de Oliveira
-- Website - https://github.com/zecarloz
+- Github - https://github.com/zecarloz
 
 ## License
 
