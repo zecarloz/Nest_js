@@ -9,7 +9,7 @@
   
 
 ### Criando uma aplicação com NEST
-## Installation
+## Instalação
 
 ```bash
 $ npm install
