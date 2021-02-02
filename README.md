@@ -17,7 +17,7 @@ $ npm install
 
 ## Running the app
 
-```bash
+``` bash
 # development
 $ npm run start
 
@@ -32,4 +32,4 @@ $ npm run start:prod
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+Nest is [MIT licensed](LICENSE)
