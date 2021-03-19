@@ -19,7 +19,7 @@ $ npm install ou (npm i)
 
 ``` bash
 # development
-$ npm run start
+$ npm run start 
 
 # watch mode
 $ npm run start:dev
@@ -27,7 +27,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-- Author - Jose Carlos de Oliveira .
+- Author - Jose Carlos de Oliveira
 - Github - https://github.com/zecarloz
 
 ## License
