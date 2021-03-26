@@ -27,7 +27,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-- Author - Jose Carlos de Oliveira .
+- Author - Jose Carlos de Oliveira 
 - Github - https://github.com/zecarloz
 
 ## License
