@@ -12,7 +12,7 @@
 ## Instalação :
 
 ```bash
-$ npm install ou (npm i)
+$ npm install.
 ```
 
 ## Running the app
